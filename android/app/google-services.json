@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240258485055",
+    "firebase_url": "https://chat-me-67267.firebaseio.com",
+    "project_id": "chat-me-67267",
+    "storage_bucket": "chat-me-67267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240258485055:android:207cc6afb7feb023b3218a",
+        "android_client_info": {
+          "package_name": "com.danny0007.chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240258485055-0ulp0910ad7g1g97j9td5dgcg2nmtlhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2Q_LsBAaJzjjFRkltKPSZ8x3crm5uBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240258485055-0ulp0910ad7g1g97j9td5dgcg2nmtlhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
